@@ -1,3 +1,3 @@
 # toy_ds_project
-#project creation date: 2/5/2024
-#author: Grace Ellis
+project creation date: 2/5/2024
+author: Grace Ellis
